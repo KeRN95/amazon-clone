@@ -9,6 +9,7 @@ function Header() {
       <img
         className="header__logo"
         src="https://upload.wikimedia.org/wikipedia/donate/thumb/f/fd/Amazon-logo-white.svg/2560px-Amazon-logo-white.svg.png"
+        alt=""
       />
       <div className="header__search">
         <input className="header__searchInput" type="text"></input>
